@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inderjeet.calculator.github.io/static/css/main.5f051d6a.css",
+    "main.js": "/inderjeet.calculator.github.io/static/js/main.c4a5a004.js",
+    "static/js/787.a174f9e5.chunk.js": "/inderjeet.calculator.github.io/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/inderjeet.calculator.github.io/index.html",
+    "main.5f051d6a.css.map": "/inderjeet.calculator.github.io/static/css/main.5f051d6a.css.map",
+    "main.c4a5a004.js.map": "/inderjeet.calculator.github.io/static/js/main.c4a5a004.js.map",
+    "787.a174f9e5.chunk.js.map": "/inderjeet.calculator.github.io/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f051d6a.css",
+    "static/js/main.c4a5a004.js"
+  ]
+}
